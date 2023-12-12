@@ -31,5 +31,7 @@ The WellnessWave Database Management System (DBMS) encompasses 150 records distr
 - **Health Data Trends Over Time:** Focused on observing the trends in health data (like weight, blood pressure, and heart rate) over time. Calculated the average weight, heart rate, and steps count for each date on which health data was recorded. Grouped and ordered the results by the date the data was recorded.
 
 
-## Conclusion
+## Contributor
+- Manasi H. Patil
+
 I invite you to explore our project, contribute to its development, and leverage our DBMS for your health and wellness analysis needs. WellnessWave is more than just a database; it's a commitment to enhancing the well-being of individuals through the power of data-driven insights and support.
